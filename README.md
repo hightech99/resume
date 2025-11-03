@@ -1,5 +1,5 @@
 ### Đặng Thiên Hoà'S RESUME
-Deployment: https://hightech105.github.io/resume
+Deployment: https://hightech99.github.io/resume
 
 ## Preview
 ![portfolio demo](src/assets/images/Logo1.png)
@@ -10,7 +10,7 @@ Deployment: https://hightech105.github.io/resume
 
 ### 1. Clone git repository:
     
-    git clone https://github.com/hightech105/Resume.git
+    git clone https://github.com/hightech99/Resume.git
  
 ### 2. Yarn install:
 
